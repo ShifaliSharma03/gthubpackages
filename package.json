@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ShifaliSharma03/gthubpackages/issues"
   },
-  "homepage": "https://github.com/ShifaliSharma03/gthubpackages#readme"
+  "homepage": "https://github.com/ShifaliSharma03/gthubpackages#readme",
+  "publishConfig": {
+    "@shifalisharma03:registry": "https://npm.pkg.github.com"
+  
+  }
 }
