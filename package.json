@@ -1,0 +1,22 @@
+{
+  "name": "@shifalisharma03/githubpackages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShifaliSharma03/gthubpackages.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "shifali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShifaliSharma03/gthubpackages/issues"
+  },
+  "homepage": "https://github.com/ShifaliSharma03/gthubpackages#readme"
+}
